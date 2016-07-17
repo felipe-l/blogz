@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deernadia</title>
+    <description>Deernadia is a hearthston twitch streamer on twitch. Come join us at twitch.com/deernadia
+</description>
+    <link>http://deernadia.xyz//deernadia/blog/</link>
+    <atom:link href="http://deernadia.xyz//deernadia/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Jul 2016 17:09:23 -0700</pubDate>
+    <lastBuildDate>Fri, 15 Jul 2016 17:09:23 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Welcome to The BLOG!</title>
+        <description>&lt;p&gt;HELLO EVERYONE, This is the new &lt;code class=&quot;highlighter-rouge&quot;&gt;Blog&lt;/code&gt;,Where Nadia will post news and other related posts. For now the blog will stay like this with the new comment system below and the basic blog posts. I will keep improving the blog in deernadia.com until we have the best blog for the community. I will also change the design often to make the blog prettier and more organized!.&lt;/p&gt;
+
+&lt;p&gt;GO CHECK OUT deernadia on twitch &lt;a href=&quot;http://twitch.tv/deernadia&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 15 Jul 2016 00:00:00 -0700</pubDate>
+        <link>http://deernadia.xyz//deernadia/blog/2016/07/15/THE-BLOG!.html</link>
+        <guid isPermaLink="true">http://deernadia.xyz//deernadia/blog/2016/07/15/THE-BLOG!.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
